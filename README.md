@@ -2,9 +2,8 @@
 - 👀 I’m interested in data Analytics.
 - 🌱 I’m currently learning python, sql, power BI and excel.
 - 💞️ I’m looking to collaborate on Data Analytics project.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me - via GitHub.
+
 
 <!---
 thisisAnand/thisisAnand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
